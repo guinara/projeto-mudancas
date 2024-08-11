@@ -1,0 +1,19 @@
+.titulo {
+    color: #FFFFFF;
+    width: 548px;
+    padding: 1%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: left;
+
+}
+
+.mar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}

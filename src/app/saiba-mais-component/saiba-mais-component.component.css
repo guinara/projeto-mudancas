@@ -1,0 +1,38 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.artigos {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.titulo {
+    color: #FFFFFF;
+    width: 548px;
+    padding: 1%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+}
+
+p {
+    color: #FFFFFF;
+    width: 548px;
+    padding: 1%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 44px;
+    text-align: center;
+
+}
