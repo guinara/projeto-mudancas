@@ -4,11 +4,21 @@
     font-family: 'League Spartan';
     font-style: normal;
     font-weight: 350;
-    font-size: 3dvw;
+    font-size: 2.5dvw;
     line-height: 3dvw;
 }
 
+.ursopai {
+    visibility: hidden;
+}
 
+#Saiba {
+    visibility: hidden;
+}
+
+#textos {
+    flex-direction: column;
+}
 
 .mar {
     display: flex;
