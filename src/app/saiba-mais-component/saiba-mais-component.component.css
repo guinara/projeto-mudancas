@@ -1,28 +1,31 @@
-#container {
+.container {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
+    align-content: center;
+    margin: auto;
+    text-align: center
 }
 
-.artigos {
-    flex-direction: column;
-    justify-content: space-between;
-}
 
 .example-card {
     max-width: 400px;
+    background-color: #75acff;
 }
 
-.example-card p {
-    color: #000;
+.example-card {
+    color: #FFF;
     text-wrap: wrap;
+}
+
+img {
+    width: 55%;
+    max-height: 20%;
 }
 
 
 .titulo {
     color: #FFFFFF;
-    width: 548px;
     padding: 1%;
     font-family: 'League Spartan';
     font-style: normal;
